@@ -51,8 +51,6 @@ public class C26_Post_Pojo extends HerokuAppBaseUrl {
 
         assertEquals(expData.getBooking().isDepositpaid(), respPojo.getBooking().isDepositpaid());
 
-
-
     }
 
 }
